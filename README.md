@@ -4,6 +4,4 @@
 
 ⚡ I have experience working as a Full Stack Dev but my passion is Backend and DevOps
 
-🌱 I’m currently studying: Golang and Microservice architecture design patterns
-
-👯 My current personal project is a video-encoding microservice written in Golang, itself part of a bigger project
+🌱 I’m currently studying: Golang, Microservice architecture design patterns and Blockchain development
