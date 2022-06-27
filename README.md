@@ -2,6 +2,8 @@
 
 🔭 I’m a Software Developer from São Paulo, Brazil
 
-⚡ I have experience working as a Full Stack Dev but my passion is Backend and DevOps
+⚡ From open-source MMORPG server emulators when I was 13 years old to developing professionally in my
+20s, I’m absolutely passionate about software development. I’m enthusiastic about large-scale
+distributed systems, microservices, DevOps culture, cloud computing and overall code quality.
 
-🌱 I’m currently studying: Golang, Microservice architecture design patterns and Blockchain development
+🌱 Currently studying: Golang, Event-Driven Architecture, Distributed Systems, Apache Kafka
