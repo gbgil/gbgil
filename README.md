@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there! 👋
 
-🔭 I’m a Software Developer from São Paulo, Brazil
+🔭 I’m a Software Engineer from São Paulo, Brazil
 
-⚡ From open-source MMORPG server emulators when I was 13 years old to developing professionally in my
-20s, I’m absolutely passionate about software development. I’m enthusiastic about large-scale
-distributed systems, microservices, DevOps culture, cloud computing and overall code quality.
+⚡ I got bitten by the software development bug (ha!) at the age of 13, when I first started tinkering with open-source MMORPG server emulators, and eventually began developing professionally in my 20s. 
+
+My enthusiasm extends to domain-driven design (DDD), software architecture and system design, distributed systems(and all the challenges they entail!), and a strong commitment to code quality.
